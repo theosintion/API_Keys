@@ -5,7 +5,7 @@
 >>This can also be found:
 >>>The OSINTion Wiki: https://theosintion.com/wiki/doku.php?id=api-keys
 
->>>The OSINTion Website: 
+>>>The OSINTion Website: https://www.theosintion.com/practical-social-engineering/api-keys/
 
 >>>Joe's GitHub: https://github.com/jocephus/Practical-Social-Engineering/edit/master/APIs/API_Keys.md
 
